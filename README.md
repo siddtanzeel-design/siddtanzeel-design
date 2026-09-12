@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tanzeel Siddiqui 👋
 
-<!--
-**siddtanzeel-design/siddtanzeel-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **CSE Student | Python & C++ | DSA**
 
-Here are some ideas to get you started:
+I build projects while learning **software development, databases, and problem solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Featured
+
+[LeetCode Solutions](https://github.com/siddtanzeel-design/LeetCode) — My LeetCode solutions in Python & C++
+
+### 🛠️ Tech Stack
+
+`Python` `C++` `C` `SQL` `Flask` `PostgreSQL` `Git`
+
+### 📌 Currently
+
+* Solving **DSA** problems in Python & C++
+* Building projects with **Flask & PostgreSQL**
+
+### 🎯 Goals
+
+* Master **DSA & problem solving**
+* Strengthen **backend development**
+* Get hands-on with **AI/ML**
+
+> *"The best way to learn is to build."*
