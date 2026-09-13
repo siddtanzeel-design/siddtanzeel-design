@@ -6,4 +6,4 @@ Currently focused on **DSA and backend development**.
 
 [LeetCode Solutions](https://github.com/siddtanzeel-design/LeetCode)
 
-syntaxually bad
+*syntaxually bad*
