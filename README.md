@@ -1,4 +1,4 @@
-# Tanzeel Siddiqui
+# Md Tanzeel Siddiqui
 
 CSE student working with **Python, C++, C, SQL, Flask & PostgreSQL**.
 
