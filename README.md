@@ -7,5 +7,3 @@ Currently focused on **DSA and backend development**.
 **100+ Questions Solved on LeetCode**
   
   - [LeetCode Solutions](https://github.com/siddtanzeel-design/LeetCode)
-
-*syntaxually bad*
